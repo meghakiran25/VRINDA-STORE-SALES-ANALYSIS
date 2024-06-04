@@ -3,3 +3,4 @@
 Objective
 
 Vrinda Store wants to create an annual sales report for 2022, with the objective of understanding their customer demographics and devising strategies to enhance sales for the subsequent year, 2023.
+METHODOLOGY
