@@ -18,7 +18,7 @@ INSIGHTS
 
 4. Maharashtra, Karnataka, Uttar Pradesh,Telangana and Tamil Nadu emerged as the top five states in terms of product purchases.
 
-5. The adult age group, particularly individuals aged between 30 to 49 years, made the most significant contribution, accounting for approximately 50% of total purchases.
+5. The adult age group, particularly womens aged between 30 to 49 years, made the most significant contribution, accounting for approximately 50% of total purchases.
 
 6. Notably, customers placed the maximum number of product orders through channels such as Amazon, Flipkart, and Myntra.
 
