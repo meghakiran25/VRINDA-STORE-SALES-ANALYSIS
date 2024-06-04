@@ -6,4 +6,6 @@ Vrinda Store wants to create an annual sales report for 2022, with the objective
 
 METHODOLOGY
 
+During the data cleaning phase, meticulous efforts were invested to ensure data accuracy and consistency. This involved identifying and eliminating duplicate entries, addressing missing values, and standardizing data formats. Furthermore, extensive data validation checks were conducted to identify and resolve any anomalies within the dataset. Additional columns were incorporated to streamline the analysis process. Pivot tables were then utilized to derive meaningful insights from the dataset. Leveraging pivot charts and slicers, a user-friendly dashboard was developed to facilitate comprehensive data visualization and analysis.
+
 
