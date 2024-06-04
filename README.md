@@ -11,10 +11,15 @@ During the data cleaning phase, meticulous efforts were invested to ensure data 
 INSIGHTS
 
 1.March stood out with the highest sales, closely followed by February, whereas November and December marked the lowest sales periods.
+
 2.Female customers displayed a stronger inclination towards purchasing products, comprising approximately 65% of the customer base
+
 3.A remarkable 92% of orders were successfully delivered, highlighting a commendable order fulfillment rate.
+
 4.Maharashtra, Karnataka, Uttar Pradesh,Telangana and Tamil Nadu emerged as the top five states in terms of product purchases.
+
 5.The adult age group, particularly individuals aged between 30 to 49 years, made the most significant contribution, accounting for approximately 50% of total purchases.
+
 6.Notably, customers placed the maximum number of product orders through channels such as Amazon, Flipkart, and Myntra.
 
 CONCLUSION
